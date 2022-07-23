@@ -31,7 +31,7 @@
 上述两份简历的word和md版本，我都放在自己的公众号[拓跋阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)中了，后台回复：阿秀简历，即可获取。
 
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202207231714905.png" style="zoom:67%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202207231714905.png" style="width: 200px; height:200px" />
 </div>
 
 解压密码直接告诉你就是a123654，无任何套路
@@ -59,7 +59,7 @@
 如果你有计算机学习、转行、校招、求职等方面的困扰，也欢迎你与我交流，备注：「个人简单介绍」 + 交流，围观个人朋友圈，做点赞之交
 
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202207231638314.png" style="zoom: 67%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202207231638314.png" style="width: 200px; height:200px"/>
 </div>
 
 
@@ -76,7 +76,7 @@
 <a name="公众号"></a>
 
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202207231714905.png" style="zoom:67%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202207231714905.png" style="width: 200px; height:200px" />
 </div>
 
 
